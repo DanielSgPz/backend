@@ -3,7 +3,7 @@
 
   
 
-Este es un ejemplo de un "Product Manager" implementado en JavaScript. La clase `ProductManager` se encarga de gestionar un conjunto de productos, permitiendo agregar nuevos productos, verificar la disponibilidad de campos obligatorios y evitar la repetición de códigos de productos. Además, proporciona la funcionalidad de obtener una lista de productos y buscar productos por su ID.
+Este es un ejemplo de un "Gestor de Productos" implementado en JavaScript. La clase ProductManager se encarga de administrar un conjunto de productos, permitiendo agregar nuevos productos, verificar la disponibilidad de campos obligatorios y evitar la repetición de códigos de productos. Además, proporciona la funcionalidad de obtener una lista de productos, buscar productos por su ID, actualizar productos y eliminar productos.
 
   
 
@@ -47,8 +47,7 @@ Para utilizar el "Product Manager" y ejecutar el código, sigue estos pasos:
 node ProductManager.js
 ```
 
-- Puedes agregar productos utilizando el método addProduct, obtener la lista de productos con getProducts, y buscar productos por su ID con getProductById.
-
+- Puedes agregar productos utilizando el método addProduct, obtener la lista de productos con getProducts, buscar productos por su ID con getProductById, actualizar productos con updateProduct, y eliminar productos con deleteProduct.
   
 
 - Observa cómo se valida la presencia de campos obligatorios y la prevención de códigos duplicados.
