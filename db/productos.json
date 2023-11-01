@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "title": "Pan de Avena",
+    "description": "Delicioso pan de avena recién horneado.",
+    "price": 3.99,
+    "thumbnail": "pan-avena.jpg",
+    "code": "PAN123",
+    "stock": 30
+  },
+  {
+    "id": 2,
+    "title": "Rosquillas de Canela",
+    "description": "Rosquillas esponjosas con un toque de canela.",
+    "price": 2.49,
+    "thumbnail": "rosquillas-canela.jpg",
+    "code": "ROS456",
+    "stock": 20
+  },
+  {
+    "id": 3,
+    "title": "Croissants de Mantequilla",
+    "description": "Croissants de mantequilla crujientes y dorados.",
+    "price": 4.99,
+    "thumbnail": "croissants-mantequilla.jpg",
+    "code": "CRO789",
+    "stock": 15
+  },
+  {
+    "id": 4,
+    "title": "Pan Multigrano",
+    "description": "Pan saludable con semillas de lino y chía.",
+    "price": 3.49,
+    "thumbnail": "pan-multigrano.jpg",
+    "code": "PAN567",
+    "stock": 25
+  },
+  {
+    "id": 5,
+    "title": "Pastel de Manzana",
+    "description": "Pastel de manzana casero con relleno de canela.",
+    "price": 6.99,
+    "thumbnail": "pastel-manzana.jpg",
+    "code": "PAS890",
+    "stock": 10
+  },
+  {
+    "id": 6,
+    "title": "Muffins de Arándanos",
+    "description": "Muffins esponjosos con arándanos frescos.",
+    "price": 2.99,
+    "thumbnail": "muffins-arandanos.jpg",
+    "code": "MUF234",
+    "stock": 12
+  },
+  {
+    "id": 7,
+    "title": "Donas de Chocolate",
+    "description": "Donas glaseadas con chocolate negro.",
+    "price": 1.99,
+    "thumbnail": "donas-chocolate.jpg",
+    "code": "DON345",
+    "stock": 18
+  },
+  {
+    "id": 8,
+    "title": "Baguette Fresco",
+    "description": "Baguette recién horneado con una corteza crujiente.",
+    "price": 3.49,
+    "thumbnail": "baguette-fresco.jpg",
+    "code": "BAG678",
+    "stock": 14
+  },
+  {
+    "id": 9,
+    "title": "Galletas de Avena",
+    "description": "Galletas de avena con trozos de chocolate.",
+    "price": 2.49,
+    "thumbnail": "galletas-avena.jpg",
+    "code": "GAL123",
+    "stock": 22
+  },
+  {
+    "id": 10,
+    "title": "Torta de Fresa",
+    "description": "Torta de fresa con crema batida y fresas frescas.",
+    "price": 7.99,
+    "thumbnail": "torta-fresa.jpg",
+    "code": "TOR456",
+    "stock": 8
+  },
+  {
+    "id": 11,
+    "title": "Bollos de Canela",
+    "description": "Bollos de canela glaseados con azúcar y canela.",
+    "price": 3.99,
+    "thumbnail": "bollos-canela.jpg",
+    "code": "BOL789",
+    "stock": 16
+  },
+  {
+    "id": 12,
+    "title": "Croissants de Chocolate",
+    "description": "Croissants rellenos de chocolate suave.",
+    "price": 4.49,
+    "thumbnail": "croissants-chocolate.jpg",
+    "code": "CRO123",
+    "stock": 20
+  },
+  {
+    "id": 13,
+    "title": "Pan de Centeno",
+    "description": "Pan de centeno integral con semillas de girasol.",
+    "price": 3.99,
+    "thumbnail": "pan-centeno.jpg",
+    "code": "PAN890",
+    "stock": 10
+  },
+  {
+    "id": 14,
+    "title": "Tarta de Limón",
+    "description": "Tarta de limón con merengue tostado.",
+    "price": 5.99,
+    "thumbnail": "tarta-limon.jpg",
+    "code": "TAR567",
+    "stock": 9
+  },
+  {
+    "id": 15,
+    "title": "Donuts de Vainilla",
+    "description": "Donuts glaseadas con sabor a vainilla.",
+    "price": 1.79,
+    "thumbnail": "donuts-vainilla.jpg",
+    "code": "DON678",
+    "stock": 15
+  }
+]
