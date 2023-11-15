@@ -1,0 +1,56 @@
+[
+  {
+    "id": "hldr01",
+    "title": "Helado de Vainilla",
+    "description": "Delicioso helado de vainilla",
+    "category": "Helados",
+    "code": "HEL001",
+    "price": 2500,
+    "stock": 10
+  },
+  {
+    "id": "hldr02",
+    "title": "Helado de Chocolate",
+    "description": "Irresistible helado de chocolate",
+    "category": "Helados",
+    "code": "HEL002",
+    "price": 2800,
+    "stock": 8
+  },
+  {
+    "id": "hldr03",
+    "title": "Cucurucho de Fresa",
+    "description": "Cucurucho de helado con sabor a fresa",
+    "category": "Helados",
+    "code": "HEL003",
+    "price": 3000,
+    "stock": 12
+  },
+  {
+    "id": "hldr04",
+    "title": "Sundae de Nuez",
+    "description": "Sundae con nueces y salsa de caramelo",
+    "category": "Helados",
+    "code": "HEL004",
+    "price": 3500,
+    "stock": 5
+  },
+  {
+    "id": "hldr05",
+    "title": "Milkshake de Vainilla",
+    "description": "Refrescante milkshake de vainilla",
+    "category": "Bebidas Heladas",
+    "code": "BEV001",
+    "price": 2000,
+    "stock": 7
+  },
+  {
+    "id": "hldr06",
+    "title": "Paleta de Frutas",
+    "description": "Paleta helada con trozos de frutas",
+    "category": "Helados",
+    "code": "HEL005",
+    "price": 1800,
+    "stock": 15
+  }
+]

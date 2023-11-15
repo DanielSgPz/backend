@@ -1,0 +1,72 @@
+<div class="container">
+    <div class="form-container">
+        <h2 class="text-center">Cargar Productos</h2>
+        <br>
+        <form>
+            <div class="mb-3">
+                <label for="titulo" class="form-label">Titulo:</label>
+                <input type="text" class="form-control" id="titulo" placeholder="Ingresar Título">
+            </div>
+
+            <div class="mb-3">
+                <label for="descripcion" class="form-label">Descripción:</label>
+                <input type="text" class="form-control" id="descripcion" placeholder="Ingresar Descripción">
+            </div>
+
+            <div class="mb-3">
+                <label for="categoria" class="form-label">Categoría:</label>
+                <input type="text" class="form-control" id="categoria" placeholder="Ingresar Categoría">
+            </div>
+
+            <div class="mb-3">
+                <label for="codigo" class="form-label">Código:</label>
+                <input type="text" class="form-control" id="codigo" placeholder="Ingresar Código">
+            </div>
+
+            <div class="mb-3">
+                <label for="precio" class="form-label">Precio:</label>
+                <input type="text" class="form-control" id="precio" placeholder="Ingresar Precio">
+            </div>
+
+            <div class="mb-3">
+                <label for="stock" class="form-label">Stock:</label>
+                <input type="text" class="form-control" id="stock" placeholder="Ingresar Stock">
+            </div>
+
+            <div>
+                <button id="btn" type="submit" class="btn btn-outline-secondary">Agregar Producto</button>
+            </div>
+        </form>
+    </div>
+
+    <div>
+        <h2 class="text-center">Lista de Productos</h2>
+        <br>
+        <table class="table">
+            <thead class="table-dark">
+                <tr>
+                    <th scope="col">ID</th>
+                    <th scope="col">TITULO</th>
+                    <th scope="col">DESCRIPCION</th>
+                    <th scope="col">CATEGORIA</th>
+                    <th scope="col">CODIGO</th>
+                    <th scope="col">PRECIO</th>
+                    <th scope="col">STOCK</th>
+                </tr>
+            </thead>
+            <tbody id="productsTable">
+                <tr>
+                    <th scope="row"></th>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<script src="/static/js/script.js"></script>
